@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reset root password for mysql
-tags: [mysql]
+categories: [MySQL, How-To]
 ---
 
 Sometimes I totally forgot the root password that I set for `mysql`. So, I'm writing these steps for my own reference, and for others who faced the same problem.
